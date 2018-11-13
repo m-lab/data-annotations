@@ -1,0 +1,11 @@
+Description: "Google Cloud IP addresses erroneously advertized by internet service providers other than Google"
+EndDate: 20181112T2135Z
+Name: "BGP Hijacking"
+PubDate: "20181114"
+References:
+  - "https://status.cloud.google.com/incident/cloud-networking/18018"
+  - "https://twitter.com/thousandeyes/status/1062102171506765825"
+  - "https://portal.bgpmon.net/data/google-leak-nov2018.txt"
+  - "https://www.reddit.com/r/sysadmin/comments/9wijhk/bgp_hijacking_attack_in_progress/"
+StartDate: 20181112T2012Z
+Type: "BGP Problem"
